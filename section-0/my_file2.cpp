@@ -1,7 +1,7 @@
 #include "PPP.h"
 #include <iostream>
 
-import std;
+// import std;
 using namespace std;
 
 int main() {
